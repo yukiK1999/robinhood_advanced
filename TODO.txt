@@ -1,0 +1,20 @@
+Get ticker
+
+ftp://ftp.nasdaqtrader.com/SymbolDirectory/nasdaqlisted.txt
+ftp://ftp.nasdaqtrader.com/SymbolDirectory/nasdaqtraded.txt
+
+
+AAPL
+TSLA
+ARKK
+
+market cap 50B
+option delta
+expiration date
+long call 0.7 (threshold)
+short call 0.3 (threshold)
+
+
+
+option gamma
+option

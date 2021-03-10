@@ -1,3 +1,4 @@
 account_info.txt
 .idea/
 venv/
+__pycache__/
